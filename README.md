@@ -5,6 +5,10 @@ This program showcases a dynamic cloud rendering using OpenGL and GLFW. The clou
 
 ## Demo
 
+#### Screenshot
+![](screenshots/screenshot.jpeg)
+
+#### Animated
 ![](screenshots/24fps.gif)
 
 ## Prerequisites

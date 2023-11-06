@@ -115,7 +115,7 @@ GLuint compile_shader(const char* source, GLenum shader_type) {
     return shader;
 }
 
-int main() {
+int main(void) {
     // Initialize GLFW library.
     if (!glfwInit()) {
         return -1;
